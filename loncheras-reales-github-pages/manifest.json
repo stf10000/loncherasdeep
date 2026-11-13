@@ -1,0 +1,41 @@
+{
+  "name": "Generador de Loncheras Reales | Pequedoctor",
+  "short_name": "Loncheras Reales",
+  "description": "Ideas de loncheras y meriendas balanceadas con comida real, adaptadas a cada edad.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FDFBF7",
+  "theme_color": "#D4A373",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": ["food", "health", "parenting"],
+  "icons": [
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

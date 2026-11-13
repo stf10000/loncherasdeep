@@ -1,0 +1,512 @@
+{
+  "6-12m": {
+    "proteina": [
+      {
+        "nombre": "Huevos de pastoreo cocidos",
+        "receta": null
+      },
+      {
+        "nombre": "Huevo revuelto en ghee",
+        "receta": "Bate un huevo con una cucharadita de ghee a fuego muy bajo.\nCocina sin dejar de mover hasta que quede cremoso y bien cocido."
+      },
+      {
+        "nombre": "Paté casero de hígado de pollo",
+        "receta": "Cocina el hígado con cebolla en ghee hasta que no quede rosado.\nTritura con un poco del caldo de cocción y enfría.\nOfrécelo en porciones pequeñas una o dos veces por semana."
+      },
+      {
+        "nombre": "Pollo al vapor desmechado",
+        "receta": "Cocina muslo de pollo al vapor hasta que se separe del hueso.\nDesmecha y aplasta con tenedor; añade una gota de aceite de oliva."
+      },
+      {
+        "nombre": "Pavo molido en bolitas suaves",
+        "receta": "Mezcla pavo molido con calabacín rallado y un huevo.\nForma bolitas pequeñas y cocínalas al vapor hasta que estén bien hechas."
+      },
+      {
+        "nombre": "Carne de res en hebras tiernas",
+        "receta": "Cocina un corte magro a fuego lento con agua y cebolla hasta que se deshaga.\nDesmecha en hebras finas y ofrécelas blandas, sin trozos duros."
+      },
+      {
+        "nombre": "Lentejas rojas aplastadas",
+        "receta": "Cocina lentejas rojas con zanahoria hasta que estén muy suaves.\nAplasta con tenedor y añade una gota de aceite de oliva."
+      },
+      {
+        "nombre": "Frijoles negros aplastados",
+        "receta": "Remoja los frijoles desde la noche anterior y cocínalos hasta que se aplasten solos.\nRetira la piel si queda firme y sirve una porción pequeña."
+      },
+      {
+        "nombre": "Garbanzos cocidos en puré suave",
+        "receta": "Cocina garbanzos hasta que estén muy tiernos y retira la piel.\nTritura con caldo de cocción y un hilo de aceite de oliva."
+      },
+      {
+        "nombre": "Salmón al horno desmenuzado",
+        "receta": "Hornea un filete de salmón fresco sin sal a 180 °C hasta que se separe en láminas.\nRetira las espinas y desmenuza muy fino."
+      },
+      {
+        "nombre": "Sardina fresca sin espinas",
+        "receta": "Hornea sardinas frescas con limón y aceite de oliva.\nRetira piel y espinas, y desmenuza la carne en trozos muy pequeños."
+      },
+      {
+        "nombre": "Yogur natural entero sin azúcar",
+        "receta": null
+      }
+    ],
+    "energia": [
+      {
+        "nombre": "Bastones de batata al horno",
+        "receta": "Corta la batata en bastones del grosor de un dedo adulto.\nHornea a 200 °C con aceite de oliva o de coco hasta que estén muy blandos por dentro."
+      },
+      {
+        "nombre": "Puré de calabaza asada",
+        "receta": "Asa la calabaza hasta que se hunda con el tenedor.\nTritura sin piel ni semillas y añade una gota de aceite de oliva."
+      },
+      {
+        "nombre": "Arroz integral bien cocido",
+        "receta": "Cocina arroz integral con el triple de agua hasta que quede muy blando.\nAplasta ligeramente y ofrécelo tibio."
+      },
+      {
+        "nombre": "Quinoa cocida suave",
+        "receta": "Lava la quinoa y cocínala con agua hasta que se abra el grano.\nAplasta con tenedor para que no queden granos sueltos."
+      },
+      {
+        "nombre": "Avena cocida con agua",
+        "receta": "Cocina hojuelas de avena con agua hasta obtener una textura cremosa.\nDeja templar y sirve sin azúcar ni endulzantes."
+      },
+      {
+        "nombre": "Arepitas de zanahoria al horno",
+        "receta": "Mezcla harina de maíz nixtamalizado con zanahoria rallada y huevo.\nForma arepitas planas y hornea a 180 °C hasta que estén tiernas."
+      },
+      {
+        "nombre": "Tortitas de plátano y avena",
+        "receta": "Aplasta un plátano maduro con avena y un huevo.\nCocina cucharadas en sartén con ghee a fuego bajo, hasta que cuajen."
+      },
+      {
+        "nombre": "Papa criolla cocida y aplastada",
+        "receta": "Hierve papas criollas sin piel hasta que se deshagan.\nAplasta con un tenedor y un poco de aceite de oliva."
+      },
+      {
+        "nombre": "Yuca cocida y aplastada",
+        "receta": "Cocina yuca fresca sin centro leñoso hasta que esté muy blanda.\nRetira las fibras y aplasta con caldo de cocción."
+      },
+      {
+        "nombre": "Plátano macho asado y aplastado",
+        "receta": "Asa el plátano macho maduro con cáscara hasta que esté blando.\nRetira la cáscara y aplasta la pulpa con tenedor."
+      },
+      {
+        "nombre": "Tortilla de maíz en tiras",
+        "receta": "Calienta una tortilla de maíz nixtamalizado hasta que esté suave.\nCorta en tiras largas y delgadas, fáciles de tomar con la mano."
+      },
+      {
+        "nombre": "Mijo cocido con calabaza",
+        "receta": "Cocina mijo con calabaza en cubos hasta que todo se deshaga.\nAplasta y deja templar antes de servir."
+      }
+    ],
+    "frescura": [
+      {
+        "nombre": "Aguacate maduro en tiras",
+        "receta": null
+      },
+      {
+        "nombre": "Cambur maduro en tiras largas",
+        "receta": null
+      },
+      {
+        "nombre": "Pera madura al vapor",
+        "receta": "Pela y corta la pera en bastones.\nCocina al vapor hasta que se aplaste fácilmente con el tenedor."
+      },
+      {
+        "nombre": "Manzana cocida sin piel",
+        "receta": "Pela y cuece la manzana con un poco de agua y canela.\nAplasta hasta obtener una textura espesa y sin trozos."
+      },
+      {
+        "nombre": "Calabacín al vapor en bastones",
+        "receta": "Corta el calabacín en bastones del tamaño de un dedo adulto.\nCocina al vapor hasta que esté muy blando."
+      },
+      {
+        "nombre": "Zanahoria al vapor en bastones",
+        "receta": "Corta la zanahoria en bastones largos y cocínala al vapor.\nDebe aplastarse con facilidad antes de ofrecerla."
+      },
+      {
+        "nombre": "Brócoli al vapor en arbolitos",
+        "receta": "Separa arbolitos pequeños y cocínalos al vapor.\nRetira los tallos más duros y ofrece solo las puntas blandas."
+      },
+      {
+        "nombre": "Mango maduro en tiras",
+        "receta": null
+      },
+      {
+        "nombre": "Papaya madura en tiras",
+        "receta": null
+      },
+      {
+        "nombre": "Arándanos aplastados",
+        "receta": "Lava los arándanos y aplástalos con el tenedor.\nCocínalos un minuto al vapor para reducir el riesgo de asfixia."
+      }
+    ],
+    "bebida": [
+      {
+        "nombre": "Agua filtrada en vaso abierto",
+        "receta": null
+      },
+      {
+        "nombre": "Agua filtrada en vasito de destete",
+        "receta": null
+      },
+      {
+        "nombre": "Agua de coco 100% natural",
+        "receta": null
+      },
+      {
+        "nombre": "Caldo de huesos sin sal",
+        "receta": "Cocina huesos de res o pollo a fuego muy bajo durante varias horas.\nCuela, enfría y retira la grasa; no añadas sal."
+      },
+      {
+        "nombre": "Caldo de verduras sin sal",
+        "receta": "Cocina zanahoria, calabacín y puerro en agua hasta que estén tiernos.\nCuela el caldo y ofrécelo tibio, sin añadir sal."
+      },
+      {
+        "nombre": "Leche materna en recipiente térmico",
+        "receta": null
+      }
+    ]
+  },
+  "1-3a": {
+    "proteina": [
+      {
+        "nombre": "Huevos de pastoreo cocidos",
+        "receta": null
+      },
+      {
+        "nombre": "Tortilla francesa en ghee",
+        "receta": "Bate un huevo con una cucharadita de ghee.\nCuájala a fuego bajo y corta en tiras pequeñas antes de empacar."
+      },
+      {
+        "nombre": "Paté casero de hígado de pollo",
+        "receta": "Cocina hígado de pollo con cebolla en ghee hasta que esté bien hecho.\nTritura con caldo y enfría.\nOfrécelo en porciones pequeñas una o dos veces por semana."
+      },
+      {
+        "nombre": "Albóndigas de pavo y calabacín",
+        "receta": "Mezcla pavo molido, calabacín rallado y huevo.\nForma albóndigas pequeñas y hornea a 190 °C hasta que estén bien cocidas."
+      },
+      {
+        "nombre": "Pollo al horno desmechado",
+        "receta": "Hornea muslos de pollo con aceite de oliva y romero.\nDesmecha sin piel ni huesos y humedece con su jugo."
+      },
+      {
+        "nombre": "Lentejas estofadas con zanahoria",
+        "receta": "Sofríe cebolla y zanahoria en aceite de oliva.\nAñade lentejas y caldo, y cocina hasta que estén muy tiernas."
+      },
+      {
+        "nombre": "Puré de garbanzos con aceite de oliva",
+        "receta": "Tritura garbanzos cocidos con un poco de caldo y aceite de oliva.\nSirve con tiras de pepino o pan suave para untar."
+      },
+      {
+        "nombre": "Salmón al horno con limón",
+        "receta": "Hornea salmón fresco con limón y aceite de oliva a 180 °C.\nRetira las espinas y corta en trozos pequeños."
+      },
+      {
+        "nombre": "Carne de res guisada en hebras",
+        "receta": "Cocina carne magra a fuego lento con cebolla, zanahoria y caldo.\nDesmecha en hebras cortas y ofrécelas tibias."
+      },
+      {
+        "nombre": "Yogur natural entero sin azúcar",
+        "receta": null
+      }
+    ],
+    "energia": [
+      {
+        "nombre": "Bastones de batata al horno",
+        "receta": "Corta batata en bastones y mezcla con aceite de oliva o de coco.\nHornea a 200 °C hasta que estén dorados y blandos."
+      },
+      {
+        "nombre": "Arepitas de zanahoria al horno",
+        "receta": "Mezcla harina de maíz nixtamalizado, zanahoria rallada y huevo.\nForma arepitas y hornea a 180 °C hasta que estén tiernas."
+      },
+      {
+        "nombre": "Tortitas de plátano y avena",
+        "receta": "Aplasta plátano maduro con avena y huevo.\nCocina en sartén con ghee y corta en tiras para la lonchera."
+      },
+      {
+        "nombre": "Arroz integral con calabaza",
+        "receta": "Cocina arroz integral con calabaza en cubos hasta que ambos estén tiernos.\nMezcla y deja enfriar antes de empacar."
+      },
+      {
+        "nombre": "Quinoa cocida con ghee",
+        "receta": "Cocina quinoa hasta que esté tierna y escúrrela.\nMézclala con una cucharadita de ghee y deja templar."
+      },
+      {
+        "nombre": "Pasta integral con pesto de albahaca",
+        "receta": "Cocina pasta integral al dente y reserva un poco del agua.\nTritura albahaca, aceite de oliva y semillas de calabaza tostadas."
+      },
+      {
+        "nombre": "Pan de masa madre con aguacate",
+        "receta": "Tuesta ligeramente una rebanada de pan de masa madre.\nUnte aguacate maduro y corta en tiras fáciles de tomar."
+      },
+      {
+        "nombre": "Tortilla de maíz",
+        "receta": "Calienta una tortilla fresca de maíz nixtamalizado.\nCórtala en cuartos o tiras y ofrécela tibia."
+      },
+      {
+        "nombre": "Papa al horno en gajos",
+        "receta": "Corta papas en gajos y mezcla con aceite de oliva o de coco.\nHornea a 200 °C hasta que estén blandas por dentro."
+      },
+      {
+        "nombre": "Avena cocida con manzana y canela",
+        "receta": "Cocina avena con manzana rallada y canela.\nDeja que espese y sirve tibia, sin endulzar."
+      }
+    ],
+    "frescura": [
+      {
+        "nombre": "Cambur maduro",
+        "receta": null
+      },
+      {
+        "nombre": "Aguacate en láminas",
+        "receta": null
+      },
+      {
+        "nombre": "Mango en cubos",
+        "receta": null
+      },
+      {
+        "nombre": "Papaya en cubos",
+        "receta": null
+      },
+      {
+        "nombre": "Pera en láminas",
+        "receta": null
+      },
+      {
+        "nombre": "Manzana rallada con canela",
+        "receta": "Ralla una manzana sin piel y mezcla con una pizca de canela.\nSirve de inmediato para que no se oxide."
+      },
+      {
+        "nombre": "Zanahoria baby al vapor",
+        "receta": "Cocina zanahorias baby al vapor hasta que se aplasten con el tenedor.\nCorta las más grandes a lo largo."
+      },
+      {
+        "nombre": "Brócoli al vapor",
+        "receta": "Cocina arbolitos de brócoli al vapor hasta que estén tiernos.\nEnfría y empaca con una gota de aceite de oliva."
+      },
+      {
+        "nombre": "Pepino en medias lunas",
+        "receta": null
+      },
+      {
+        "nombre": "Tomates cherry en cuartos",
+        "receta": null
+      }
+    ],
+    "bebida": [
+      {
+        "nombre": "Agua filtrada",
+        "receta": null
+      },
+      {
+        "nombre": "Agua de coco 100% natural",
+        "receta": null
+      },
+      {
+        "nombre": "Caldo de huesos sin sal",
+        "receta": "Cocina huesos de res o pollo a fuego muy bajo durante varias horas.\nCuela, enfría y retira la grasa; envía en botella térmica."
+      },
+      {
+        "nombre": "Leche entera de vaca",
+        "receta": null
+      },
+      {
+        "nombre": "Batido de mango y yogur sin azúcar",
+        "receta": "Licúa mango maduro con yogur natural y un poco de agua fría.\nSirve de inmediato en botella térmica."
+      },
+      {
+        "nombre": "Agua fresca de sandía sin azúcar",
+        "receta": "Licúa sandía con agua fría y unas hojas de menta.\nCuela si hace falta y no añadas azúcar."
+      },
+      {
+        "nombre": "Leche materna en termo",
+        "receta": null
+      },
+      {
+        "nombre": "Infusión de manzanilla sin azúcar",
+        "receta": null
+      },
+      {
+        "nombre": "Batido verde de espinaca y pera",
+        "receta": "Licúa un puñado de espinaca con pera madura y agua fría.\nSirve sin colar y sin endulzar."
+      },
+      {
+        "nombre": "Agua con limón sin azúcar",
+        "receta": null
+      }
+    ]
+  },
+  "4+a": {
+    "proteina": [
+      {
+        "nombre": "Huevos de pastoreo cocidos",
+        "receta": null
+      },
+      {
+        "nombre": "Tortilla de espinaca y queso fresco",
+        "receta": "Bate huevos con espinaca picada y queso fresco desmenuzado.\nCuaja en sartén con ghee y corta en triángulos."
+      },
+      {
+        "nombre": "Paté casero de hígado de pollo",
+        "receta": "Cocina hígado de pollo con cebolla en ghee hasta que esté bien hecho.\nTritura con caldo y enfría.\nOfrécelo en porciones pequeñas una o dos veces por semana."
+      },
+      {
+        "nombre": "Albóndigas de res y avena",
+        "receta": "Mezcla carne molida de res con avena molida, huevo y zanahoria rallada.\nForma albóndigas y hornea a 190 °C hasta que estén cocidas."
+      },
+      {
+        "nombre": "Pollo al horno con hierbas",
+        "receta": "Hornea contramuslos de pollo con aceite de oliva, tomillo y romero.\nDesmecha y empaca sin piel ni huesos."
+      },
+      {
+        "nombre": "Croquetas de garbanzo al horno",
+        "receta": "Tritura garbanzos cocidos con zanahoria al vapor y avena molida.\nForma croquetas, pincela con aceite de oliva y hornea a 190 °C."
+      },
+      {
+        "nombre": "Salmón al horno con eneldo",
+        "receta": "Hornea salmón fresco con eneldo, limón y aceite de oliva.\nRetira las espinas y corta en trozos fáciles de comer."
+      },
+      {
+        "nombre": "Atún fresco al horno desmenuzado",
+        "receta": "Hornea un lomo de atún fresco a 180 °C hasta que esté cocido.\nDesmenuza y mezcla con un poco de aceite de oliva y limón."
+      },
+      {
+        "nombre": "Queso fresco en cubos",
+        "receta": null
+      },
+      {
+        "nombre": "Yogur griego natural sin azúcar",
+        "receta": null
+      }
+    ],
+    "energia": [
+      {
+        "nombre": "Bastones de batata al horno",
+        "receta": "Corta batata en bastones y mezcla con aceite de oliva o de coco.\nHornea a 200 °C hasta que estén dorados y tiernos."
+      },
+      {
+        "nombre": "Arepitas de zanahoria al horno",
+        "receta": "Mezcla harina de maíz nixtamalizado, zanahoria rallada y huevo.\nForma arepitas y hornea a 180 °C hasta que estén tiernas."
+      },
+      {
+        "nombre": "Tortitas de plátano y avena",
+        "receta": "Aplasta plátano maduro con avena y huevo.\nCocina en sartén con ghee y envuelve en papel encerado para la lonchera."
+      },
+      {
+        "nombre": "Arroz integral con verduras",
+        "receta": "Cocina arroz integral y mézclalo con zanahoria y arvejas al vapor.\nAdereza con aceite de oliva y limón."
+      },
+      {
+        "nombre": "Quinoa con ghee y limón",
+        "receta": "Cocina quinoa y escúrrela bien.\nMézclala con ghee y unas gotas de limón antes de empacar."
+      },
+      {
+        "nombre": "Pasta integral con pesto de albahaca",
+        "receta": "Cocina pasta integral al dente.\nTritura albahaca, aceite de oliva y semillas de calabaza tostadas; mezcla."
+      },
+      {
+        "nombre": "Sándwich de aguacate y huevo",
+        "receta": "Tuesta dos rebanadas de pan de masa madre.\nRellena con aguacate, huevo cocido en láminas y un poco de aceite de oliva."
+      },
+      {
+        "nombre": "Tortilla de maíz con frijoles",
+        "receta": "Calienta tortillas de maíz nixtamalizado.\nRellena con frijoles negros aplastados y un poco de aguacate."
+      },
+      {
+        "nombre": "Papa al horno en gajos",
+        "receta": "Corta papas en gajos y mezcla con aceite de oliva y pimentón.\nHornea a 200 °C hasta que estén crujientes por fuera y blandas por dentro."
+      },
+      {
+        "nombre": "Muffins de plátano y avena",
+        "receta": "Mezcla plátano maduro aplastado, huevo, avena molida y canela.\nReparte en moldes y hornea a 180 °C por 18 minutos."
+      }
+    ],
+    "frescura": [
+      {
+        "nombre": "Cambur maduro",
+        "receta": null
+      },
+      {
+        "nombre": "Aguacate en láminas",
+        "receta": null
+      },
+      {
+        "nombre": "Mango en cubos",
+        "receta": null
+      },
+      {
+        "nombre": "Papaya en cubos",
+        "receta": null
+      },
+      {
+        "nombre": "Pera en láminas",
+        "receta": null
+      },
+      {
+        "nombre": "Manzana en láminas",
+        "receta": null
+      },
+      {
+        "nombre": "Zanahoria baby al vapor",
+        "receta": "Cocina zanahorias baby al vapor hasta que estén tiernas.\nEnfría y empaca con humedad para que no se sequen."
+      },
+      {
+        "nombre": "Brócoli al vapor",
+        "receta": "Cocina arbolitos de brócoli al vapor hasta que estén tiernos.\nEnfría y aliña con una gota de aceite de oliva."
+      },
+      {
+        "nombre": "Pepino en medias lunas",
+        "receta": null
+      },
+      {
+        "nombre": "Uvas sin semillas en cuartos",
+        "receta": null
+      }
+    ],
+    "bebida": [
+      {
+        "nombre": "Agua filtrada",
+        "receta": null
+      },
+      {
+        "nombre": "Agua de coco 100% natural",
+        "receta": null
+      },
+      {
+        "nombre": "Caldo de huesos sin sal",
+        "receta": "Cocina huesos de res o pollo a fuego muy bajo durante varias horas.\nCuela, enfría y retira la grasa; envía en botella térmica."
+      },
+      {
+        "nombre": "Leche entera de vaca",
+        "receta": null
+      },
+      {
+        "nombre": "Batido de mango y yogur sin azúcar",
+        "receta": "Licúa mango maduro con yogur natural y un poco de agua fría.\nSirve de inmediato en botella térmica."
+      },
+      {
+        "nombre": "Agua fresca de sandía sin azúcar",
+        "receta": "Licúa sandía con agua fría y menta.\nCuela si hace falta y no añadas azúcar."
+      },
+      {
+        "nombre": "Limonada de coco sin azúcar",
+        "receta": "Mezcla agua de coco natural con unas gotas de limón y hielo.\nSirve sin endulzar."
+      },
+      {
+        "nombre": "Batido verde de espinaca y pera",
+        "receta": "Licúa espinaca con pera madura y agua fría.\nSirve sin colar y sin endulzar."
+      },
+      {
+        "nombre": "Infusión de manzanilla sin azúcar",
+        "receta": null
+      },
+      {
+        "nombre": "Agua con pepino y menta",
+        "receta": null
+      }
+    ]
+  }
+}
